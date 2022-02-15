@@ -8,10 +8,10 @@
 			<jaxb:property name="reviseInventoryStatusRequestTypeAny" />
 		</jaxws:bindings>
 	</jaxws:bindings>	
-	<jaxws:bindings
+	<!-- <jaxws:bindings
 		node="//xs:complexType[@name='EBayPLUSPreferenceType']">
 			 <jaxb:class name="eBayPLUSPreferenceType"/>
-	</jaxws:bindings>
+	</jaxws:bindings> -->
 	<jaxb:bindings xmlns:jaxb="http://java.sun.com/xml/ns/jaxb" version="2.1">
     <jaxb:globalBindings underscoreBinding="asCharInWord"/>
     </jaxb:bindings>
