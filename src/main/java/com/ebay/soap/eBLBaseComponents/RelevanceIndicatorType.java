@@ -85,8 +85,8 @@ public class RelevanceIndicatorType
      * 
      * @return
      *     array of
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object[] getAny() {
@@ -101,8 +101,8 @@ public class RelevanceIndicatorType
      * 
      * @return
      *     one of
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object getAny(int idx) {
@@ -124,8 +124,8 @@ public class RelevanceIndicatorType
      * 
      * @param values
      *     allowed objects are
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public void setAny(Object[] values) {
@@ -148,8 +148,8 @@ public class RelevanceIndicatorType
      * 
      * @param value
      *     allowed object is
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object setAny(int idx, Object value) {

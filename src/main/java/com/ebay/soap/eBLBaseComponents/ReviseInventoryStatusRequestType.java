@@ -132,8 +132,8 @@ public class ReviseInventoryStatusRequestType
      * 
      * @return
      *     array of
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object[] getReviseInventoryStatusRequestTypeAny() {
@@ -148,8 +148,8 @@ public class ReviseInventoryStatusRequestType
      * 
      * @return
      *     one of
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object getReviseInventoryStatusRequestTypeAny(int idx) {
@@ -171,8 +171,8 @@ public class ReviseInventoryStatusRequestType
      * 
      * @param values
      *     allowed objects are
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public void setReviseInventoryStatusRequestTypeAny(Object[] values) {
@@ -195,8 +195,8 @@ public class ReviseInventoryStatusRequestType
      * 
      * @param value
      *     allowed object is
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object setReviseInventoryStatusRequestTypeAny(int idx, Object value) {

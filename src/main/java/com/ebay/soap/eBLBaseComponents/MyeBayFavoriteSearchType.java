@@ -964,8 +964,8 @@ public class MyeBayFavoriteSearchType
      * 
      * @return
      *     array of
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object[] getAny() {
@@ -980,8 +980,8 @@ public class MyeBayFavoriteSearchType
      * 
      * @return
      *     one of
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object getAny(int idx) {
@@ -1003,8 +1003,8 @@ public class MyeBayFavoriteSearchType
      * 
      * @param values
      *     allowed objects are
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public void setAny(Object[] values) {
@@ -1027,8 +1027,8 @@ public class MyeBayFavoriteSearchType
      * 
      * @param value
      *     allowed object is
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object setAny(int idx, Object value) {

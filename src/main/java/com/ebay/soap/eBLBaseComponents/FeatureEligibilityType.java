@@ -193,8 +193,8 @@ public class FeatureEligibilityType
      * 
      * @return
      *     array of
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object[] getAny() {
@@ -209,8 +209,8 @@ public class FeatureEligibilityType
      * 
      * @return
      *     one of
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object getAny(int idx) {
@@ -232,8 +232,8 @@ public class FeatureEligibilityType
      * 
      * @param values
      *     allowed objects are
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public void setAny(Object[] values) {
@@ -256,8 +256,8 @@ public class FeatureEligibilityType
      * 
      * @param value
      *     allowed object is
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object setAny(int idx, Object value) {

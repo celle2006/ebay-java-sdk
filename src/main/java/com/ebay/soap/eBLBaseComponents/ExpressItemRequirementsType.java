@@ -556,8 +556,8 @@ public class ExpressItemRequirementsType
      * 
      * @return
      *     array of
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object[] getAny() {
@@ -572,8 +572,8 @@ public class ExpressItemRequirementsType
      * 
      * @return
      *     one of
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object getAny(int idx) {
@@ -595,8 +595,8 @@ public class ExpressItemRequirementsType
      * 
      * @param values
      *     allowed objects are
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public void setAny(Object[] values) {
@@ -619,8 +619,8 @@ public class ExpressItemRequirementsType
      * 
      * @param value
      *     allowed object is
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object setAny(int idx, Object value) {

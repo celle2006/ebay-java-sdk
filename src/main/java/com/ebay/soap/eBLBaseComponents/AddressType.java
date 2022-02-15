@@ -942,8 +942,8 @@ public class AddressType
      * 
      * @return
      *     array of
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object[] getAny() {
@@ -958,8 +958,8 @@ public class AddressType
      * 
      * @return
      *     one of
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object getAny(int idx) {
@@ -981,8 +981,8 @@ public class AddressType
      * 
      * @param values
      *     allowed objects are
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public void setAny(Object[] values) {
@@ -1005,8 +1005,8 @@ public class AddressType
      * 
      * @param value
      *     allowed object is
-     *     {@link Element }
      *     {@link Object }
+     *     {@link Element }
      *     
      */
     public Object setAny(int idx, Object value) {
