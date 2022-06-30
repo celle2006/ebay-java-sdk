@@ -76,12 +76,12 @@
 		<repository>
 			<id>maven-releases</id>
 			<name>Internal Releases</name>
-			<url>http://mgmt-server.fritz.box:8081/repository/maven-releases/</url>
+			<url>http://192.168.178.33:8081/repository/maven-releases/</url>
 		</repository>
 		<snapshotRepository>
 			<id>maven-snapshots</id>
 			<name>Internal Releases</name>
-			<url>http://mgmt-server.fritz.box:8081/repository/maven-snapshots/</url>
+			<url>http://192.168.178.33:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 	</distributionManagement>
 
